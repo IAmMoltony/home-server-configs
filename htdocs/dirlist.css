@@ -1,0 +1,37 @@
+body {
+	background: linear-gradient(to bottom, #5d2075, #204675);
+	height: 100%;
+}
+
+* {
+	color: white;
+}
+
+a, a:visited {
+	color: magenta;
+	text-decoration: none;
+}
+
+a:hover {
+	color: skyblue;
+}
+
+th {
+	border: 1px solid white;
+}
+
+td {
+	border-left: 1px solid gray;
+}
+
+td, th {
+	padding: 3px;
+}
+
+.foot {
+	font-size: x-small;
+	margin-top: 1em;
+	color: #4f61d1;
+}
+
+

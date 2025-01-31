@@ -4,10 +4,6 @@ ok so i have a home server (my laptop) running lighttpd and these are the config
 
 incase i lose them
 
-moltony-chan.moe is the domain name i set in my /etc/hosts file so that i dont have to type
-
-the ip address manually
-
 ## setting up
 
 1. lighttpd.conf goes into the conf folder
